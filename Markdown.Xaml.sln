@@ -1,11 +1,11 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Markdown.Xaml", "src\Markdown.Xaml\Markdown.Xaml.csproj", "{34186C3B-C308-4CAE-B462-DB7B5F5E378C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Markdown.Xaml", "src\Markdown.Xaml\Markdown.Xaml.csproj", "{34186C3B-C308-4CAE-B462-DB7B5F5E378C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Markdown.Xaml.Tests", "src\Markdown.Xaml.Tests\Markdown.Xaml.Tests.csproj", "{C44D58E8-AE6E-4F9C-8EFC-E5E816D82EF2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Markdown.Xaml.Tests", "src\Markdown.Xaml.Tests\Markdown.Xaml.Tests.csproj", "{C44D58E8-AE6E-4F9C-8EFC-E5E816D82EF2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Markdown.Demo", "src\Markdown.Xaml.Demo\Markdown.Demo.csproj", "{75978320-D1C6-4662-9563-5BAF7CE8A540}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Markdown.Demo", "src\Markdown.Xaml.Demo\Markdown.Demo.csproj", "{75978320-D1C6-4662-9563-5BAF7CE8A540}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
